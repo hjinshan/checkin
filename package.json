@@ -1,0 +1,15 @@
+{
+	"name": "checkin",
+	"version": "0.0.1",
+	"description": "'checkin to work'",
+	"pravite": true,
+	"main": "'server.js'",
+	"keywords": [
+		"checkin"
+	],
+	"author": "shawn",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.6.1"
+	}
+}
